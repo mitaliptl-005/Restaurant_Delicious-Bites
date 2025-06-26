@@ -4,6 +4,12 @@
 
 ---
 
+## Live Demo:
+
+Link: https://restaurant-delicious-bites.vercel.app/
+
+---
+
 ## 🎯 Project Goal
 
 To build a visually appealing and functional restaurant website that highlights:
